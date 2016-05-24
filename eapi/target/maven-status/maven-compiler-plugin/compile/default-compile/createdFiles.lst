@@ -1,0 +1,6 @@
+com\cloudasset\api\CustomerCreate.class
+com\cloudasset\api\Status.class
+com\cloudasset\api\PaymentCreate.class
+com\cloudasset\api\Global.class
+com\cloudasset\api\Clear.class
+com\cloudasset\api\GetStatus.class
